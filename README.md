@@ -44,6 +44,14 @@ Auto Flappy is a project created using Unity, showcasing a clone of the popular 
 5. **Run the Game:**
    - Press the "Play" button in Unity to run the Flappy Bird ML Agent game.
 
+## Preview
+
+###### Playing
+![Playing](https://github.com/LBrzr/auto_flappy/blob/main/Screenshots/playing.png?raw=true)
+
+###### Game Over
+![Game Over](https://github.com/LBrzr/auto_flappy/blob/main/Screenshots/game_over.png?raw=true)
+
 ## Project Structure
 
 ```plaintext
